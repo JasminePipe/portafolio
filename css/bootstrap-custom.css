@@ -1,0 +1,20 @@
+.navbar-toggler {
+    background-color: #585136;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: right;
+}
+
+.carousel-control-next {
+    background-color: #585136;
+}
+
+.carousel-control-prev {
+    background-color: #585136;
+}
+
+.card {
+    margin: 3% 0%;
+}

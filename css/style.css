@@ -1,1 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&family=Lobster+Two&family=Space+Mono&family=Vollkorn&family=Zeyada&display=swap');
+/*font-family: 'Catamaran', sans-serif;
+font-family: 'Lobster Two', sans-serif;
+font-family: 'Space Mono', monospace;
+font-family: 'Vollkorn', serif;
+font-family: 'Zeyada', cursive;*/
 
+body {
+    font-family: 'Lobster Two', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #222;
+    color: #fff;
+}
+
+a {
+    color: #222;
+}
+
+section {
+    margin-top: 5vw;
+    margin-bottom: 10vw;
+}
+
+#about {
+    background-color: bisque;
+    padding: 5vw;
+}
+
+.img-proyect {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.biografia {
+    position: relative;
+}
+
+.biografia img {
+    width: 50%;
+    margin-left: 10%;
+}
+
+.bio-info {
+    position: absolute;
+    background-color: #f8f8f8;
+    top: 36%;
+    width: 50%;
+    left: 50%;
+    padding: 4vw;
+}
+
+.bio-info p {
+    font-size: 1.5vw;
+}
+
+.bio-info h2 {
+    font-size: 2.5vw;
+}
+
+#contact {
+    display: flex;
+    justify-content: space-between;
+}
+
+#contact p {
+    font-size: 1.8vw;
+}
+
+#mensaje {
+    width: 40%;
+}

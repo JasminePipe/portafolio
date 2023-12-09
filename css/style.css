@@ -28,7 +28,7 @@ section {
 }
 
 #about {
-    background-color: bisque;
+    background-color: #585136;
     padding: 5vw;
 }
 
@@ -74,4 +74,9 @@ section {
 
 #mensaje {
     width: 40%;
+}
+
+.card-img {
+    width: auto;
+    max-height: 70vw;
 }
